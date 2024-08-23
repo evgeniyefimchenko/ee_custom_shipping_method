@@ -6,7 +6,7 @@ msgstr "Project-Id-Version: tygh"
 
 msgctxt "Addons::name::ee_custom_shipping_method"
 msgid "ee_custom_shipping_method_name"
-msgstr "[efimchenko.ru] Фиксированная стоимость доставки"
+msgstr "[efimchenko.com] Фиксированная стоимость доставки"
 
 msgctxt "Addons::description::ee_custom_shipping_method"
 msgid "ee_custom_shipping_method_description"
