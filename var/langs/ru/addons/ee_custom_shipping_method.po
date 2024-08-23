@@ -1,0 +1,37 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU"
+
+msgctxt "Addons::name::ee_custom_shipping_method"
+msgid "ee_custom_shipping_method_name"
+msgstr "[efimchenko.ru] Фиксированная стоимость доставки"
+
+msgctxt "Addons::description::ee_custom_shipping_method"
+msgid "ee_custom_shipping_method_description"
+msgstr "Устанавливает фиксированную стоимость доставки для выбранных методов доставки."
+
+msgctxt "SettingsSections::ee_custom_shipping_method::general"
+msgid "ee_custom_shipping_method_general"
+msgstr "Общее"
+
+msgctxt "SettingsOptions::ee_custom_shipping_method::ee_custom_shipping_method_active"
+msgid "ee_custom_shipping_method_active"
+msgstr "Активировать"
+
+msgctxt "SettingsTooltips::ee_custom_shipping_method::ee_custom_shipping_method_active"
+msgid "ee_custom_shipping_method_active_tooltips"
+msgstr "Подсказка"
+
+msgctxt "SettingsOptions::ee_custom_shipping_method::multiple_shipping_methods"
+msgid "ee_multiple_shipping_methods"
+msgstr "Методы доставки"
+
+msgctxt "SettingsOptions::ee_custom_shipping_method::fixed_rate"
+msgid "ee_fixed_rate"
+msgstr "Фиксированная стоимость"
+
+msgctxt "SettingsTooltips::ee_custom_shipping_method::multiple_shipping_methods"
+msgid "ee_multiple_shipping_methods_tooltips"
+msgstr "Выберите все методы доставки для которых будет установлена фиксированная цена"
