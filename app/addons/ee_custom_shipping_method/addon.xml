@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <addon scheme="3.0">
     <id>ee_custom_shipping_method</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <status>active</status>
     <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
     <default_language>ru</default_language>
@@ -19,11 +19,9 @@
 						<default_value>Y</default_value>
                     </item>
                     <item id="multiple_shipping_methods">
-                        <type>multiple select</type>
-                    </item>
-                    <item id="fixed_rate">
-                        <type>input</type>
-                    </item>					
+                        <type>info</type>
+						<handler>fn_ee_custom_shipping_method_show_admin_table</handler>
+                    </item>				
                 </items>
             </section>
         </sections>
